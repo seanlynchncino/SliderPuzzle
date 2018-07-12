@@ -1,0 +1,17 @@
+#buttons {
+	font-size: 0;
+}
+
+.btn {
+	height: 50px;
+	width: 50px;
+	outline: none;
+	border: 0px outset grey;
+	/*background: black;*/
+	background-size: 200px 200px;
+	background-image: url('/images/s-l1600.jpg');
+}
+
+.body {
+	width: 200px;
+}

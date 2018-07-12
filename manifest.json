@@ -1,0 +1,10 @@
+{
+	"name": "SliderPuzzle",
+	"version": "0.1",
+	"description": "The best puzzle ever!",
+	"permissions": ["storage"],
+	"browser_action": {
+		"default_popup": "sliderpuzzle.html"
+	},
+	"manifest_version": 2
+}
